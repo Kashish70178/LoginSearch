@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CRIS</string>
+    <string name="desc">ImageView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mordesc">Ministry Of Railways</string>
+    <string name="submit">Sign In</string>
+    <string name="uname">Enter Username</string>
+    <string name="upass">Enter Password</string>
+    <string name="title_activity_search">SearchResult</string>
+    <string name="title_activity_sign">SignIn</string>
+    <string-array name="ListRailway">
+        <item>Select Railway</item>
+        <item>Central Railway</item>
+        <item>Eastern Railway</item>
+        <item>Western Railway</item>
+    </string-array>
+    <string name="src">Search</string>
+    <string-array name="TenderType">
+        <item>Select Tender Type</item>
+        <item>Works Tender</item>
+        <item>Supply Tender</item>
+
+    </string-array>
+    <string name="search">Enter Key To Search</string>
+    <string name="title_activity_tender">Tender</string>
+    <string name="phoneId">"Request For Reading Phone State"</string>
+
+</resources>
